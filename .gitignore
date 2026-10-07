@@ -1,4 +1,6 @@
 instructor/
+.idea/
+main.py
 
 # Python
 __pycache__/
